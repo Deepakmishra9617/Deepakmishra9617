@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m a developer.<br><br>I’m currently working on Java DSA problems and Frontend Developer projects.<br><br>I’m looking to collaborate on open source projects, web and app development, and hackathons or college projects.<br><br>I’m looking for help with advanced programming concepts, new languages and frameworks, and career guidance in software development.<br><br>I’m currently learning Java, SQL, Data Structures & Algorithms, and React.<br><br>You can ask me about Java programming, data structures and algorithms, DBMS, SQL, and frontend development basics.<br><br>Fun fact: I enjoy solving coding problems more than scrolling social media. 
+Hi, I’m a developer.<br><br>I’m currently working on Java DSA problems and Frontend Developer projects.<br><br>I’m looking to collaborate on open source projects, web and app development, and hackathons or college projects.<br><br>I’m looking for help with advanced programming concepts, new languages and frameworks, and career guidance in software development.<br><br>I’m currently learning Java, SQL, Data Structures & Algorithms, and React.<br><br>You can ask me about Java programming, data structures and algorithms, DBMS, SQL, and frontend development basics.<br><br>Fun fact: I enjoy solving coding problems more than scrolling social media.
 
 
 ## 🌐 Socials:
